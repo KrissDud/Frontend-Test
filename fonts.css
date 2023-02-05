@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Helvetica";
+    src: url("./fonts/HelveticaBold/HelveticaBold.ttf") format("ttf");
+    font-weight: bold;
+  }
+  @font-face {
+    font-family: "Helvetica";
+    src: url("./fonts/HelveticaRegular/HelveticaRegular.ttf") format("ttf");
+    font-weight: normal;
+  }
+  @font-face {
+    font-family: "Playfair Display";
+    src: url("./fonts/PlayfairDisplay/static/PlayfairDisplay-Regular.ttf") format("ttf");
+  }
